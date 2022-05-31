@@ -1,12 +1,31 @@
-div{
+.first{
     background-color: #ECE5C7;
-    border: solid;
-    
+    /* margin: 0px;
+    height: 200px;
+    width: 200px;
+
+    padding: 20px; */
+
 
 }
+/* .sec{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: solid 20px;
+    margin-left: 260px;
+    
+}
+.thir{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    border: solid 10px;
+    margin-left: 500px;
+} */
 h1 {
     display: block;
-    font-size: 3em;
+    font-size: 2em;
     margin-block-start: 0em;
     margin-block-end: 0em;
     margin-inline-start: 0px;
