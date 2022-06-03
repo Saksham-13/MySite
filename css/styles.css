@@ -82,6 +82,7 @@ hr{
     margin: 100px auto;
 }
 .btn, .btn:after{
+    display: inline-block;
     background: #11cdd4;
     background-image: -webkit-linear-gradient(top, #11cdd4, #11999A);
     background-image: -moz-linear-gradient(top, #11cdd4, #11999A);
@@ -95,6 +96,7 @@ hr{
     color: #ffffff;
     font-size: 20px;
     padding: 10px 20px 10px 20px;
+    /* margin: 50px auto; */
     text-decoration: none;
   }
   
