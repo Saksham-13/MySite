@@ -32,6 +32,8 @@ body {
     text-align: center;
     font-family: monospace;
     height: 100%;
+    overscroll-behavior-y: none;
+
 }
 .bottomcloud
 {
